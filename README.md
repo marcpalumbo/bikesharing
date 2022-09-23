@@ -4,7 +4,7 @@ The purpose of this module and assessment was to learn and implement visualizati
 ## Results
 
 Below I will summarize the findings of each visualization in 1-2 sentences. The following link will show the visualizations mentioned in the summaries below.
-[link to dashboard](https://public.tableau.com/app/profile/marc.palumbo/viz/module14challenge_16639149476310/Customersvs_Subscribers?publish=yes)
+[Tableau Visualizations to CitiBike Dashboard](https://public.tableau.com/app/profile/marc.palumbo/viz/module14challenge_16639149476310/Customersvs_Subscribers?publish=yes)
 ### Checkout Times for Users
 This graph showcases that most bikes rides are around 6 minutes long in New York City. Since the city is so dense, it is not overly surprising, but one may initially think without data that the average time would be much longer. 
 
